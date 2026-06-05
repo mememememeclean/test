@@ -6,8 +6,7 @@
     <title>PineTech CyberDef — статистика сезонов</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     <style>
-        /* Стили такие же, как в предыдущем ответе, они не изменились */
-        /* ... (вставьте все стили из предыдущего ответа) ... */
+        /* Стили такие же, как в предыдущем ответе */
         * {
             margin: 0;
             padding: 0;
@@ -769,9 +768,9 @@
     async function loadJSON() {
         try {
             const response = await fetch(`${JSON_DATA_URL}?v=${Date.now()}`); // Добавляем timestamp чтобы избежать кэша
-            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            if (!response.ok) throw new Error(`HTTP ${response.status} - файл data.json не найден`);
             const data = await response.json();
-            fullData = data.seasons;
+            fullData = data; // Ваш JSON имеет структуру { "season_1": {...}, "season_2": {...} }
             seasonsList = Object.keys(fullData).map(key => ({
                 id: key,
                 name: fullData[key].metadata.name,
@@ -927,7 +926,7 @@
             `;
         }).join('');
         
-        return `<div class="table-wrapper"><table><thead><tr>${headersHTML}</td></thead><tbody>${rowsHTML}</tbody></td></div>`;
+        return `<div class="table-wrapper"><table><thead><tr>${headersHTML}</table></thead><tbody>${rowsHTML}</tbody></table></div>`;
     }
     
     // Отрисовка графика
@@ -1070,7 +1069,7 @@
             
         } catch (error) {
             console.error('Ошибка обновления:', error);
-            document.getElementById('content').innerHTML = `<div class="error-message">❌ Ошибка загрузки JSON: ${error.message}</div>`;
+            document.getElementById('content').innerHTML = `<div class="error-message">❌ Ошибка загрузки JSON: ${error.message}<br><br>Убедитесь, что файл data.json существует в корне репозитория</div>`;
         } finally {
             refreshBtn.innerHTML = originalText;
             refreshBtn.disabled = false;
