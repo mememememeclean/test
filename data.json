@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Сезон 1",
       "totalTeams": 9,
-      "generatedAt": "2026-06-06T14:03:21.079405",
+      "generatedAt": "2026-06-06T14:52:58.267865",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=1"
     },
     "standings": {
@@ -270,7 +270,7 @@
       "id": 2,
       "name": "Сезон 2",
       "totalTeams": 20,
-      "generatedAt": "2026-06-06T14:03:21.144131",
+      "generatedAt": "2026-06-06T14:52:58.338177",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=2"
     },
     "standings": {
@@ -667,7 +667,7 @@
       "id": 3,
       "name": "1 смена Junior",
       "totalTeams": 25,
-      "generatedAt": "2026-06-06T14:03:21.212309",
+      "generatedAt": "2026-06-06T14:52:58.410302",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=3"
     },
     "standings": {
@@ -1119,7 +1119,7 @@
       "id": 4,
       "name": "1 смена Middle+",
       "totalTeams": 43,
-      "generatedAt": "2026-06-06T14:03:21.306124",
+      "generatedAt": "2026-06-06T14:52:58.479574",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=4"
     },
     "standings": {
@@ -1262,7 +1262,7 @@
           "wins": 11,
           "losses": 4,
           "winRate": 73,
-          "tokensSpent": 58
+          "tokensSpent": 62
         },
         {
           "rank": 10,
@@ -1371,7 +1371,7 @@
           "rating": 1076,
           "wins": 11,
           "losses": 4,
-          "tokensSpent": 58,
+          "tokensSpent": 62,
           "department": "Просвещения",
           "type": "shield"
         },
@@ -1624,7 +1624,7 @@
           "rating": 968,
           "wins": 6,
           "losses": 8,
-          "tokensSpent": 53,
+          "tokensSpent": 56,
           "department": "Просвещения",
           "type": "shield"
         },
@@ -1701,7 +1701,7 @@
           "rating": 895,
           "wins": 5,
           "losses": 14,
-          "tokensSpent": 52,
+          "tokensSpent": 55,
           "department": "Просвещения",
           "type": "radar"
         },
@@ -1769,7 +1769,7 @@
       "id": 5,
       "name": "1 смена ВК",
       "totalTeams": 36,
-      "generatedAt": "2026-06-06T14:03:21.359472",
+      "generatedAt": "2026-06-06T14:52:58.530468",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=5"
     },
     "standings": {
@@ -2342,7 +2342,7 @@
       "id": 6,
       "name": "1 смена OlympD",
       "totalTeams": 16,
-      "generatedAt": "2026-06-06T14:03:21.416069",
+      "generatedAt": "2026-06-06T14:52:58.594363",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=6"
     },
     "standings": {
@@ -2695,7 +2695,7 @@
       "id": 7,
       "name": "1 смена ЕГЭ",
       "totalTeams": 3,
-      "generatedAt": "2026-06-06T14:03:21.472939",
+      "generatedAt": "2026-06-06T14:52:58.645487",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=7"
     },
     "standings": {
@@ -2835,7 +2835,7 @@
       "id": 8,
       "name": "1 смена PineTech Seniors",
       "totalTeams": 42,
-      "generatedAt": "2026-06-06T14:03:21.534794",
+      "generatedAt": "2026-06-06T14:52:58.697901",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=8"
     },
     "standings": {
