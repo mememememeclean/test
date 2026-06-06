@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Сезон 1",
       "totalTeams": 9,
-      "generatedAt": "2026-06-06T00:21:56.100694",
+      "generatedAt": "2026-06-06T14:03:21.079405",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=1"
     },
     "standings": {
@@ -270,7 +270,7 @@
       "id": 2,
       "name": "Сезон 2",
       "totalTeams": 20,
-      "generatedAt": "2026-06-06T00:21:56.214412",
+      "generatedAt": "2026-06-06T14:03:21.144131",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=2"
     },
     "standings": {
@@ -667,7 +667,7 @@
       "id": 3,
       "name": "1 смена Junior",
       "totalTeams": 25,
-      "generatedAt": "2026-06-06T00:21:56.320297",
+      "generatedAt": "2026-06-06T14:03:21.212309",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=3"
     },
     "standings": {
@@ -683,7 +683,7 @@
             "losses": 1,
             "totalMatches": 17,
             "winRate": 94,
-            "tokensSpent": 52
+            "tokensSpent": 61
           },
           "department": "Новаторская",
           "type": "shield"
@@ -699,7 +699,7 @@
             "losses": 2,
             "totalMatches": 11,
             "winRate": 82,
-            "tokensSpent": 62
+            "tokensSpent": 71
           },
           "department": "Медведково",
           "type": "shield"
@@ -715,7 +715,7 @@
             "losses": 2,
             "totalMatches": 9,
             "winRate": 78,
-            "tokensSpent": 57
+            "tokensSpent": 72
           },
           "department": "Королёв",
           "type": "trap"
@@ -730,7 +730,7 @@
           "wins": 16,
           "losses": 1,
           "winRate": 94,
-          "tokensSpent": 52
+          "tokensSpent": 61
         },
         {
           "rank": 2,
@@ -740,7 +740,7 @@
           "wins": 9,
           "losses": 2,
           "winRate": 82,
-          "tokensSpent": 62
+          "tokensSpent": 71
         },
         {
           "rank": 3,
@@ -750,7 +750,7 @@
           "wins": 7,
           "losses": 2,
           "winRate": 78,
-          "tokensSpent": 57
+          "tokensSpent": 72
         },
         {
           "rank": 4,
@@ -760,7 +760,7 @@
           "wins": 9,
           "losses": 5,
           "winRate": 64,
-          "tokensSpent": 56
+          "tokensSpent": 71
         },
         {
           "rank": 5,
@@ -770,7 +770,7 @@
           "wins": 8,
           "losses": 5,
           "winRate": 62,
-          "tokensSpent": 62
+          "tokensSpent": 67
         },
         {
           "rank": 6,
@@ -780,7 +780,7 @@
           "wins": 11,
           "losses": 6,
           "winRate": 65,
-          "tokensSpent": 48
+          "tokensSpent": 57
         },
         {
           "rank": 7,
@@ -790,7 +790,7 @@
           "wins": 10,
           "losses": 9,
           "winRate": 53,
-          "tokensSpent": 51
+          "tokensSpent": 60
         },
         {
           "rank": 8,
@@ -810,7 +810,7 @@
           "wins": 5,
           "losses": 5,
           "winRate": 50,
-          "tokensSpent": 44
+          "tokensSpent": 53
         },
         {
           "rank": 10,
@@ -820,7 +820,7 @@
           "wins": 5,
           "losses": 4,
           "winRate": 56,
-          "tokensSpent": 59
+          "tokensSpent": 74
         }
       ],
       "fullLeaderboard": [
@@ -831,7 +831,7 @@
           "rating": 1181,
           "wins": 16,
           "losses": 1,
-          "tokensSpent": 52,
+          "tokensSpent": 61,
           "department": "Новаторская",
           "type": "shield"
         },
@@ -842,7 +842,7 @@
           "rating": 1099,
           "wins": 9,
           "losses": 2,
-          "tokensSpent": 62,
+          "tokensSpent": 71,
           "department": "Медведково",
           "type": "shield"
         },
@@ -853,7 +853,7 @@
           "rating": 1067,
           "wins": 7,
           "losses": 2,
-          "tokensSpent": 57,
+          "tokensSpent": 72,
           "department": "Королёв",
           "type": "trap"
         },
@@ -864,7 +864,7 @@
           "rating": 1048,
           "wins": 9,
           "losses": 5,
-          "tokensSpent": 56,
+          "tokensSpent": 71,
           "department": "Королёв",
           "type": "trap"
         },
@@ -875,7 +875,7 @@
           "rating": 1042,
           "wins": 8,
           "losses": 5,
-          "tokensSpent": 62,
+          "tokensSpent": 67,
           "department": "Профсоюзная",
           "type": "shield"
         },
@@ -886,7 +886,7 @@
           "rating": 1041,
           "wins": 11,
           "losses": 6,
-          "tokensSpent": 48,
+          "tokensSpent": 57,
           "department": "Новаторская",
           "type": "shield"
         },
@@ -897,7 +897,7 @@
           "rating": 1035,
           "wins": 10,
           "losses": 9,
-          "tokensSpent": 51,
+          "tokensSpent": 60,
           "department": "Новаторская",
           "type": "radar"
         },
@@ -919,7 +919,7 @@
           "rating": 1024,
           "wins": 5,
           "losses": 5,
-          "tokensSpent": 44,
+          "tokensSpent": 53,
           "department": "Октябрьское поле",
           "type": "trap"
         },
@@ -930,7 +930,7 @@
           "rating": 1007,
           "wins": 5,
           "losses": 4,
-          "tokensSpent": 59,
+          "tokensSpent": 74,
           "department": "Королёв",
           "type": "trap"
         },
@@ -941,7 +941,7 @@
           "rating": 1003,
           "wins": 6,
           "losses": 7,
-          "tokensSpent": 58,
+          "tokensSpent": 69,
           "department": "Профсоюзная",
           "type": "radar"
         },
@@ -963,7 +963,7 @@
           "rating": 998,
           "wins": 7,
           "losses": 6,
-          "tokensSpent": 40,
+          "tokensSpent": 59,
           "department": "Новочеркасская",
           "type": "trap"
         },
@@ -974,7 +974,7 @@
           "rating": 995,
           "wins": 4,
           "losses": 5,
-          "tokensSpent": 61,
+          "tokensSpent": 75,
           "department": "Медведково",
           "type": "trap"
         },
@@ -996,7 +996,7 @@
           "rating": 992,
           "wins": 5,
           "losses": 6,
-          "tokensSpent": 52,
+          "tokensSpent": 60,
           "department": "Мытищи",
           "type": "shield"
         },
@@ -1007,7 +1007,7 @@
           "rating": 976,
           "wins": 5,
           "losses": 7,
-          "tokensSpent": 53,
+          "tokensSpent": 63,
           "department": "Мытищи",
           "type": "shield"
         },
@@ -1040,7 +1040,7 @@
           "rating": 954,
           "wins": 3,
           "losses": 7,
-          "tokensSpent": 40,
+          "tokensSpent": 56,
           "department": "Медведково",
           "type": "radar"
         },
@@ -1051,7 +1051,7 @@
           "rating": 948,
           "wins": 1,
           "losses": 6,
-          "tokensSpent": 40,
+          "tokensSpent": 46,
           "department": "Медведково",
           "type": "trap"
         },
@@ -1062,7 +1062,7 @@
           "rating": 941,
           "wins": 3,
           "losses": 7,
-          "tokensSpent": 50,
+          "tokensSpent": 64,
           "department": "Октябрьское поле",
           "type": "shield"
         },
@@ -1073,7 +1073,7 @@
           "rating": 931,
           "wins": 3,
           "losses": 7,
-          "tokensSpent": 52,
+          "tokensSpent": 64,
           "department": "Новочеркасская",
           "type": "radar"
         },
@@ -1119,7 +1119,7 @@
       "id": 4,
       "name": "1 смена Middle+",
       "totalTeams": 43,
-      "generatedAt": "2026-06-06T00:21:56.380359",
+      "generatedAt": "2026-06-06T14:03:21.306124",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=4"
     },
     "standings": {
@@ -1135,7 +1135,7 @@
             "losses": 1,
             "totalMatches": 13,
             "winRate": 92,
-            "tokensSpent": 59
+            "tokensSpent": 74
           },
           "department": "Проспект Мира",
           "type": "radar"
@@ -1151,7 +1151,7 @@
             "losses": 3,
             "totalMatches": 14,
             "winRate": 79,
-            "tokensSpent": 59
+            "tokensSpent": 68
           },
           "department": "Проспект Мира",
           "type": "trap"
@@ -1182,7 +1182,7 @@
           "wins": 12,
           "losses": 1,
           "winRate": 92,
-          "tokensSpent": 59
+          "tokensSpent": 74
         },
         {
           "rank": 2,
@@ -1192,7 +1192,7 @@
           "wins": 11,
           "losses": 3,
           "winRate": 79,
-          "tokensSpent": 59
+          "tokensSpent": 68
         },
         {
           "rank": 3,
@@ -1212,7 +1212,7 @@
           "wins": 9,
           "losses": 2,
           "winRate": 82,
-          "tokensSpent": 54
+          "tokensSpent": 65
         },
         {
           "rank": 5,
@@ -1232,7 +1232,7 @@
           "wins": 6,
           "losses": 0,
           "winRate": 100,
-          "tokensSpent": 52
+          "tokensSpent": 58
         },
         {
           "rank": 7,
@@ -1242,7 +1242,7 @@
           "wins": 8,
           "losses": 2,
           "winRate": 80,
-          "tokensSpent": 54
+          "tokensSpent": 63
         },
         {
           "rank": 8,
@@ -1252,7 +1252,7 @@
           "wins": 9,
           "losses": 3,
           "winRate": 75,
-          "tokensSpent": 54
+          "tokensSpent": 69
         },
         {
           "rank": 9,
@@ -1283,7 +1283,7 @@
           "rating": 1143,
           "wins": 12,
           "losses": 1,
-          "tokensSpent": 59,
+          "tokensSpent": 74,
           "department": "Проспект Мира",
           "type": "radar"
         },
@@ -1294,7 +1294,7 @@
           "rating": 1121,
           "wins": 11,
           "losses": 3,
-          "tokensSpent": 59,
+          "tokensSpent": 68,
           "department": "Проспект Мира",
           "type": "trap"
         },
@@ -1316,7 +1316,7 @@
           "rating": 1096,
           "wins": 9,
           "losses": 2,
-          "tokensSpent": 54,
+          "tokensSpent": 65,
           "department": "Новаторская",
           "type": "shield"
         },
@@ -1338,7 +1338,7 @@
           "rating": 1085,
           "wins": 6,
           "losses": 0,
-          "tokensSpent": 52,
+          "tokensSpent": 58,
           "department": "Новочеркасская",
           "type": "shield"
         },
@@ -1349,7 +1349,7 @@
           "rating": 1079,
           "wins": 8,
           "losses": 2,
-          "tokensSpent": 54,
+          "tokensSpent": 63,
           "department": "Новаторская",
           "type": "trap"
         },
@@ -1360,7 +1360,7 @@
           "rating": 1078,
           "wins": 9,
           "losses": 3,
-          "tokensSpent": 54,
+          "tokensSpent": 69,
           "department": "Королёв",
           "type": "shield"
         },
@@ -1404,7 +1404,7 @@
           "rating": 1060,
           "wins": 7,
           "losses": 3,
-          "tokensSpent": 57,
+          "tokensSpent": 68,
           "department": "Медведково",
           "type": "trap"
         },
@@ -1415,7 +1415,7 @@
           "rating": 1056,
           "wins": 7,
           "losses": 2,
-          "tokensSpent": 53,
+          "tokensSpent": 65,
           "department": "Королёв",
           "type": "shield"
         },
@@ -1426,7 +1426,7 @@
           "rating": 1045,
           "wins": 7,
           "losses": 5,
-          "tokensSpent": 55,
+          "tokensSpent": 64,
           "department": "Медведково",
           "type": "radar"
         },
@@ -1437,7 +1437,7 @@
           "rating": 1033,
           "wins": 7,
           "losses": 4,
-          "tokensSpent": 57,
+          "tokensSpent": 66,
           "department": "Проспект Мира",
           "type": "shield"
         },
@@ -1448,7 +1448,7 @@
           "rating": 1029,
           "wins": 4,
           "losses": 6,
-          "tokensSpent": 40,
+          "tokensSpent": 76,
           "department": "Новочеркасская",
           "type": "trap"
         },
@@ -1470,7 +1470,7 @@
           "rating": 1019,
           "wins": 6,
           "losses": 4,
-          "tokensSpent": 58,
+          "tokensSpent": 73,
           "department": "Медведково",
           "type": "trap"
         },
@@ -1481,7 +1481,7 @@
           "rating": 1015,
           "wins": 6,
           "losses": 5,
-          "tokensSpent": 57,
+          "tokensSpent": 66,
           "department": "Новаторская",
           "type": "radar"
         },
@@ -1514,7 +1514,7 @@
           "rating": 1005,
           "wins": 5,
           "losses": 4,
-          "tokensSpent": 53,
+          "tokensSpent": 61,
           "department": "Новочеркасская",
           "type": "radar"
         },
@@ -1525,7 +1525,7 @@
           "rating": 1001,
           "wins": 7,
           "losses": 6,
-          "tokensSpent": 57,
+          "tokensSpent": 72,
           "department": "Королёв",
           "type": "shield"
         },
@@ -1547,7 +1547,7 @@
           "rating": 987,
           "wins": 6,
           "losses": 7,
-          "tokensSpent": 54,
+          "tokensSpent": 62,
           "department": "Мытищи",
           "type": "trap"
         },
@@ -1571,7 +1571,7 @@
           "losses": 10,
           "tokensSpent": 40,
           "department": "Королёв",
-          "type": "radar"
+          "type": "shield"
         },
         {
           "rank": 28,
@@ -1591,12 +1591,23 @@
           "rating": 980,
           "wins": 6,
           "losses": 9,
-          "tokensSpent": 51,
+          "tokensSpent": 64,
           "department": "Королёв",
           "type": "radar"
         },
         {
           "rank": 30,
+          "id": 182,
+          "name": "Mojang Studios",
+          "rating": 979,
+          "wins": 8,
+          "losses": 8,
+          "tokensSpent": 60,
+          "department": "Мытищи",
+          "type": "trap"
+        },
+        {
+          "rank": 31,
           "id": 193,
           "name": "Бешеные кириешки",
           "rating": 979,
@@ -1604,17 +1615,6 @@
           "losses": 6,
           "tokensSpent": 52,
           "department": "Новочеркасская",
-          "type": "trap"
-        },
-        {
-          "rank": 31,
-          "id": 182,
-          "name": "Mojang Studios",
-          "rating": 979,
-          "wins": 8,
-          "losses": 8,
-          "tokensSpent": 51,
-          "department": "Мытищи",
           "type": "trap"
         },
         {
@@ -1635,7 +1635,7 @@
           "rating": 950,
           "wins": 7,
           "losses": 13,
-          "tokensSpent": 57,
+          "tokensSpent": 64,
           "department": "Мытищи",
           "type": "radar"
         },
@@ -1657,7 +1657,7 @@
           "rating": 941,
           "wins": 4,
           "losses": 10,
-          "tokensSpent": 58,
+          "tokensSpent": 67,
           "department": "Проспект Мира",
           "type": "trap"
         },
@@ -1734,7 +1734,7 @@
           "rating": 834,
           "wins": 1,
           "losses": 14,
-          "tokensSpent": 40,
+          "tokensSpent": 59,
           "department": "Королёв",
           "type": "shield"
         },
@@ -1769,7 +1769,7 @@
       "id": 5,
       "name": "1 смена ВК",
       "totalTeams": 36,
-      "generatedAt": "2026-06-06T00:21:56.466025",
+      "generatedAt": "2026-06-06T14:03:21.359472",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=5"
     },
     "standings": {
@@ -1785,7 +1785,7 @@
             "losses": 1,
             "totalMatches": 22,
             "winRate": 95,
-            "tokensSpent": 46
+            "tokensSpent": 50
           },
           "department": "Виртуальный класс",
           "type": "trap"
@@ -1832,7 +1832,7 @@
           "wins": 21,
           "losses": 1,
           "winRate": 95,
-          "tokensSpent": 46
+          "tokensSpent": 50
         },
         {
           "rank": 2,
@@ -1862,7 +1862,7 @@
           "wins": 9,
           "losses": 6,
           "winRate": 60,
-          "tokensSpent": 48
+          "tokensSpent": 52
         },
         {
           "rank": 5,
@@ -1872,7 +1872,7 @@
           "wins": 5,
           "losses": 2,
           "winRate": 71,
-          "tokensSpent": 47
+          "tokensSpent": 51
         },
         {
           "rank": 6,
@@ -1892,7 +1892,7 @@
           "wins": 9,
           "losses": 5,
           "winRate": 64,
-          "tokensSpent": 45
+          "tokensSpent": 50
         },
         {
           "rank": 8,
@@ -1922,7 +1922,7 @@
           "wins": 9,
           "losses": 5,
           "winRate": 64,
-          "tokensSpent": 45
+          "tokensSpent": 49
         }
       ],
       "fullLeaderboard": [
@@ -1933,7 +1933,7 @@
           "rating": 1210,
           "wins": 21,
           "losses": 1,
-          "tokensSpent": 46,
+          "tokensSpent": 50,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -1966,7 +1966,7 @@
           "rating": 1057,
           "wins": 9,
           "losses": 6,
-          "tokensSpent": 48,
+          "tokensSpent": 52,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -1977,7 +1977,7 @@
           "rating": 1056,
           "wins": 5,
           "losses": 2,
-          "tokensSpent": 47,
+          "tokensSpent": 51,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -1999,7 +1999,7 @@
           "rating": 1044,
           "wins": 9,
           "losses": 5,
-          "tokensSpent": 45,
+          "tokensSpent": 50,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -2032,7 +2032,7 @@
           "rating": 1035,
           "wins": 9,
           "losses": 5,
-          "tokensSpent": 45,
+          "tokensSpent": 49,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2043,7 +2043,7 @@
           "rating": 1023,
           "wins": 8,
           "losses": 5,
-          "tokensSpent": 46,
+          "tokensSpent": 50,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -2087,7 +2087,7 @@
           "rating": 1010,
           "wins": 5,
           "losses": 4,
-          "tokensSpent": 45,
+          "tokensSpent": 48,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -2098,7 +2098,7 @@
           "rating": 1003,
           "wins": 4,
           "losses": 4,
-          "tokensSpent": 40,
+          "tokensSpent": 49,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -2115,25 +2115,25 @@
         },
         {
           "rank": 18,
-          "id": 97,
-          "name": "Киберпельмешки",
-          "rating": 995,
-          "wins": 4,
-          "losses": 5,
-          "tokensSpent": 46,
-          "department": "Виртуальный класс",
-          "type": "trap"
-        },
-        {
-          "rank": 19,
           "id": 95,
           "name": "Пиксар",
           "rating": 995,
           "wins": 6,
           "losses": 7,
-          "tokensSpent": 46,
+          "tokensSpent": 50,
           "department": "Виртуальный класс",
           "type": "radar"
+        },
+        {
+          "rank": 19,
+          "id": 97,
+          "name": "Киберпельмешки",
+          "rating": 995,
+          "wins": 4,
+          "losses": 5,
+          "tokensSpent": 49,
+          "department": "Виртуальный класс",
+          "type": "trap"
         },
         {
           "rank": 20,
@@ -2153,7 +2153,7 @@
           "rating": 991,
           "wins": 7,
           "losses": 8,
-          "tokensSpent": 46,
+          "tokensSpent": 50,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -2164,7 +2164,7 @@
           "rating": 986,
           "wins": 7,
           "losses": 8,
-          "tokensSpent": 44,
+          "tokensSpent": 48,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2175,7 +2175,7 @@
           "rating": 984,
           "wins": 6,
           "losses": 7,
-          "tokensSpent": 46,
+          "tokensSpent": 49,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2186,7 +2186,7 @@
           "rating": 984,
           "wins": 3,
           "losses": 6,
-          "tokensSpent": 45,
+          "tokensSpent": 48,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2219,7 +2219,7 @@
           "rating": 967,
           "wins": 7,
           "losses": 9,
-          "tokensSpent": 40,
+          "tokensSpent": 46,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2230,7 +2230,7 @@
           "rating": 965,
           "wins": 8,
           "losses": 10,
-          "tokensSpent": 47,
+          "tokensSpent": 51,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2252,7 +2252,7 @@
           "rating": 954,
           "wins": 6,
           "losses": 9,
-          "tokensSpent": 45,
+          "tokensSpent": 48,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2263,7 +2263,7 @@
           "rating": 951,
           "wins": 6,
           "losses": 10,
-          "tokensSpent": 45,
+          "tokensSpent": 49,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2285,7 +2285,7 @@
           "rating": 934,
           "wins": 4,
           "losses": 9,
-          "tokensSpent": 41,
+          "tokensSpent": 48,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -2296,7 +2296,7 @@
           "rating": 932,
           "wins": 6,
           "losses": 12,
-          "tokensSpent": 44,
+          "tokensSpent": 48,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2307,7 +2307,7 @@
           "rating": 878,
           "wins": 4,
           "losses": 13,
-          "tokensSpent": 46,
+          "tokensSpent": 50,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2342,7 +2342,7 @@
       "id": 6,
       "name": "1 смена OlympD",
       "totalTeams": 16,
-      "generatedAt": "2026-06-06T00:21:56.560908",
+      "generatedAt": "2026-06-06T14:03:21.416069",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=6"
     },
     "standings": {
@@ -2695,7 +2695,7 @@
       "id": 7,
       "name": "1 смена ЕГЭ",
       "totalTeams": 3,
-      "generatedAt": "2026-06-06T00:21:56.633271",
+      "generatedAt": "2026-06-06T14:03:21.472939",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=7"
     },
     "standings": {
@@ -2835,7 +2835,7 @@
       "id": 8,
       "name": "1 смена PineTech Seniors",
       "totalTeams": 42,
-      "generatedAt": "2026-06-06T00:21:56.732972",
+      "generatedAt": "2026-06-06T14:03:21.534794",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=8"
     },
     "standings": {
@@ -2867,7 +2867,7 @@
             "losses": 0,
             "totalMatches": 9,
             "winRate": 100,
-            "tokensSpent": 50
+            "tokensSpent": 56
           },
           "department": "Новаторская",
           "type": "trap"
@@ -2883,7 +2883,7 @@
             "losses": 3,
             "totalMatches": 16,
             "winRate": 81,
-            "tokensSpent": 50
+            "tokensSpent": 60
           },
           "department": "Новаторская",
           "type": "radar"
@@ -2908,7 +2908,7 @@
           "wins": 9,
           "losses": 0,
           "winRate": 100,
-          "tokensSpent": 50
+          "tokensSpent": 56
         },
         {
           "rank": 3,
@@ -2918,7 +2918,7 @@
           "wins": 13,
           "losses": 3,
           "winRate": 81,
-          "tokensSpent": 50
+          "tokensSpent": 60
         },
         {
           "rank": 4,
@@ -2928,7 +2928,7 @@
           "wins": 4,
           "losses": 0,
           "winRate": 100,
-          "tokensSpent": 50
+          "tokensSpent": 58
         },
         {
           "rank": 5,
@@ -2978,7 +2978,7 @@
           "wins": 1,
           "losses": 0,
           "winRate": 100,
-          "tokensSpent": 40
+          "tokensSpent": 60
         },
         {
           "rank": 10,
@@ -3010,7 +3010,7 @@
           "rating": 1127,
           "wins": 9,
           "losses": 0,
-          "tokensSpent": 50,
+          "tokensSpent": 56,
           "department": "Новаторская",
           "type": "trap"
         },
@@ -3021,7 +3021,7 @@
           "rating": 1114,
           "wins": 13,
           "losses": 3,
-          "tokensSpent": 50,
+          "tokensSpent": 60,
           "department": "Новаторская",
           "type": "radar"
         },
@@ -3032,7 +3032,7 @@
           "rating": 1062,
           "wins": 4,
           "losses": 0,
-          "tokensSpent": 50,
+          "tokensSpent": 58,
           "department": "Новаторская",
           "type": "trap"
         },
@@ -3087,7 +3087,7 @@
           "rating": 1018,
           "wins": 1,
           "losses": 0,
-          "tokensSpent": 40,
+          "tokensSpent": 60,
           "department": "Проспект Мира",
           "type": "trap"
         },
@@ -3362,7 +3362,7 @@
           "rating": 970,
           "wins": 1,
           "losses": 3,
-          "tokensSpent": 40,
+          "tokensSpent": 50,
           "department": "Октябрьское поле",
           "type": "radar"
         },
