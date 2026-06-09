@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Сезон 1",
       "totalTeams": 9,
-      "generatedAt": "2026-06-09T12:54:14.506404",
+      "generatedAt": "2026-06-09T15:29:41.194952",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=1"
     },
     "standings": {
@@ -270,7 +270,7 @@
       "id": 2,
       "name": "Сезон 2",
       "totalTeams": 20,
-      "generatedAt": "2026-06-09T12:54:14.733482",
+      "generatedAt": "2026-06-09T15:29:41.272298",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=2"
     },
     "standings": {
@@ -667,7 +667,7 @@
       "id": 3,
       "name": "1 смена Junior",
       "totalTeams": 25,
-      "generatedAt": "2026-06-09T12:54:14.922428",
+      "generatedAt": "2026-06-09T15:29:41.335133",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=3"
     },
     "standings": {
@@ -810,7 +810,7 @@
           "wins": 10,
           "losses": 8,
           "winRate": 56,
-          "tokensSpent": 67
+          "tokensSpent": 79
         },
         {
           "rank": 10,
@@ -919,7 +919,7 @@
           "rating": 1029,
           "wins": 10,
           "losses": 8,
-          "tokensSpent": 67,
+          "tokensSpent": 79,
           "department": "Мытищи",
           "type": "trap"
         },
@@ -963,7 +963,7 @@
           "rating": 1000,
           "wins": 8,
           "losses": 7,
-          "tokensSpent": 59,
+          "tokensSpent": 78,
           "department": "Новочеркасская",
           "type": "trap"
         },
@@ -1062,7 +1062,7 @@
           "rating": 910,
           "wins": 3,
           "losses": 9,
-          "tokensSpent": 64,
+          "tokensSpent": 83,
           "department": "Новочеркасская",
           "type": "radar"
         },
@@ -1119,7 +1119,7 @@
       "id": 4,
       "name": "1 смена Middle+",
       "totalTeams": 43,
-      "generatedAt": "2026-06-09T12:54:15.126491",
+      "generatedAt": "2026-06-09T15:29:41.403248",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=4"
     },
     "standings": {
@@ -1167,7 +1167,7 @@
             "losses": 4,
             "totalMatches": 21,
             "winRate": 81,
-            "tokensSpent": 89
+            "tokensSpent": 106
           },
           "department": "Новаторская",
           "type": "trap"
@@ -1202,7 +1202,7 @@
           "wins": 17,
           "losses": 4,
           "winRate": 81,
-          "tokensSpent": 89
+          "tokensSpent": 106
         },
         {
           "rank": 4,
@@ -1242,7 +1242,7 @@
           "wins": 13,
           "losses": 7,
           "winRate": 65,
-          "tokensSpent": 88
+          "tokensSpent": 105
         },
         {
           "rank": 8,
@@ -1305,7 +1305,7 @@
           "rating": 1149,
           "wins": 17,
           "losses": 4,
-          "tokensSpent": 89,
+          "tokensSpent": 106,
           "department": "Новаторская",
           "type": "trap"
         },
@@ -1349,7 +1349,7 @@
           "rating": 1101,
           "wins": 13,
           "losses": 7,
-          "tokensSpent": 88,
+          "tokensSpent": 105,
           "department": "Новаторская",
           "type": "radar"
         },
@@ -1404,7 +1404,7 @@
           "rating": 1071,
           "wins": 15,
           "losses": 8,
-          "tokensSpent": 66,
+          "tokensSpent": 87,
           "department": "Просвещения",
           "type": "shield"
         },
@@ -1558,7 +1558,7 @@
           "rating": 985,
           "wins": 11,
           "losses": 14,
-          "tokensSpent": 40,
+          "tokensSpent": 56,
           "department": "Королёв",
           "type": "shield"
         },
@@ -1734,7 +1734,7 @@
           "rating": 830,
           "wins": 5,
           "losses": 20,
-          "tokensSpent": 59,
+          "tokensSpent": 76,
           "department": "Просвещения",
           "type": "radar"
         },
@@ -1769,7 +1769,7 @@
       "id": 5,
       "name": "1 смена ВК",
       "totalTeams": 36,
-      "generatedAt": "2026-06-09T12:54:15.344218",
+      "generatedAt": "2026-06-09T15:29:41.465174",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=5"
     },
     "standings": {
@@ -1872,7 +1872,7 @@
           "wins": 12,
           "losses": 5,
           "winRate": 71,
-          "tokensSpent": 51
+          "tokensSpent": 56
         },
         {
           "rank": 6,
@@ -1922,7 +1922,7 @@
           "wins": 11,
           "losses": 8,
           "winRate": 58,
-          "tokensSpent": 55
+          "tokensSpent": 60
         }
       ],
       "fullLeaderboard": [
@@ -1977,7 +1977,7 @@
           "rating": 1082,
           "wins": 12,
           "losses": 5,
-          "tokensSpent": 51,
+          "tokensSpent": 56,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2032,7 +2032,7 @@
           "rating": 1038,
           "wins": 11,
           "losses": 8,
-          "tokensSpent": 55,
+          "tokensSpent": 60,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2219,7 +2219,7 @@
           "rating": 958,
           "wins": 6,
           "losses": 9,
-          "tokensSpent": 53,
+          "tokensSpent": 58,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2252,7 +2252,7 @@
           "rating": 946,
           "wins": 7,
           "losses": 13,
-          "tokensSpent": 53,
+          "tokensSpent": 58,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2318,7 +2318,7 @@
           "rating": 788,
           "wins": 4,
           "losses": 23,
-          "tokensSpent": 0,
+          "tokensSpent": 53,
           "department": "Виртуальный класс",
           "type": "trap"
         }
@@ -2342,7 +2342,7 @@
       "id": 6,
       "name": "1 смена OlympD",
       "totalTeams": 15,
-      "generatedAt": "2026-06-09T12:54:15.507189",
+      "generatedAt": "2026-06-09T15:29:41.524858",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=6"
     },
     "standings": {
@@ -2358,7 +2358,7 @@
             "losses": 3,
             "totalMatches": 20,
             "winRate": 85,
-            "tokensSpent": 63
+            "tokensSpent": 84
           },
           "department": "Проспект Мира",
           "type": "trap"
@@ -2374,7 +2374,7 @@
             "losses": 1,
             "totalMatches": 13,
             "winRate": 92,
-            "tokensSpent": 63
+            "tokensSpent": 84
           },
           "department": "Проспект Мира",
           "type": "trap"
@@ -2390,7 +2390,7 @@
             "losses": 5,
             "totalMatches": 15,
             "winRate": 67,
-            "tokensSpent": 67
+            "tokensSpent": 88
           },
           "department": "Мытищи",
           "type": "trap"
@@ -2405,7 +2405,7 @@
           "wins": 17,
           "losses": 3,
           "winRate": 85,
-          "tokensSpent": 63
+          "tokensSpent": 84
         },
         {
           "rank": 2,
@@ -2415,7 +2415,7 @@
           "wins": 12,
           "losses": 1,
           "winRate": 92,
-          "tokensSpent": 63
+          "tokensSpent": 84
         },
         {
           "rank": 3,
@@ -2425,7 +2425,7 @@
           "wins": 10,
           "losses": 5,
           "winRate": 67,
-          "tokensSpent": 67
+          "tokensSpent": 88
         },
         {
           "rank": 4,
@@ -2435,7 +2435,7 @@
           "wins": 9,
           "losses": 6,
           "winRate": 60,
-          "tokensSpent": 63
+          "tokensSpent": 79
         },
         {
           "rank": 5,
@@ -2445,7 +2445,7 @@
           "wins": 12,
           "losses": 10,
           "winRate": 55,
-          "tokensSpent": 68
+          "tokensSpent": 84
         },
         {
           "rank": 6,
@@ -2465,7 +2465,7 @@
           "wins": 10,
           "losses": 6,
           "winRate": 62,
-          "tokensSpent": 59
+          "tokensSpent": 81
         },
         {
           "rank": 8,
@@ -2495,7 +2495,7 @@
           "wins": 6,
           "losses": 7,
           "winRate": 46,
-          "tokensSpent": 68
+          "tokensSpent": 73
         }
       ],
       "fullLeaderboard": [
@@ -2506,7 +2506,7 @@
           "rating": 1166,
           "wins": 17,
           "losses": 3,
-          "tokensSpent": 63,
+          "tokensSpent": 84,
           "department": "Проспект Мира",
           "type": "trap"
         },
@@ -2517,7 +2517,7 @@
           "rating": 1147,
           "wins": 12,
           "losses": 1,
-          "tokensSpent": 63,
+          "tokensSpent": 84,
           "department": "Проспект Мира",
           "type": "trap"
         },
@@ -2528,7 +2528,7 @@
           "rating": 1060,
           "wins": 10,
           "losses": 5,
-          "tokensSpent": 67,
+          "tokensSpent": 88,
           "department": "Мытищи",
           "type": "trap"
         },
@@ -2539,7 +2539,7 @@
           "rating": 1060,
           "wins": 9,
           "losses": 6,
-          "tokensSpent": 63,
+          "tokensSpent": 79,
           "department": "Проспект Мира",
           "type": "shield"
         },
@@ -2550,7 +2550,7 @@
           "rating": 1052,
           "wins": 12,
           "losses": 10,
-          "tokensSpent": 68,
+          "tokensSpent": 84,
           "department": "Проспект Мира",
           "type": "trap"
         },
@@ -2572,7 +2572,7 @@
           "rating": 1027,
           "wins": 10,
           "losses": 6,
-          "tokensSpent": 59,
+          "tokensSpent": 81,
           "department": "Проспект Мира",
           "type": "trap"
         },
@@ -2605,7 +2605,7 @@
           "rating": 975,
           "wins": 6,
           "losses": 7,
-          "tokensSpent": 68,
+          "tokensSpent": 73,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2684,7 +2684,7 @@
       "id": 7,
       "name": "1 смена ЕГЭ",
       "totalTeams": 3,
-      "generatedAt": "2026-06-09T12:54:15.706037",
+      "generatedAt": "2026-06-09T15:29:41.587025",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=7"
     },
     "standings": {
@@ -2700,7 +2700,7 @@
             "losses": 1,
             "totalMatches": 12,
             "winRate": 92,
-            "tokensSpent": 55
+            "tokensSpent": 60
           },
           "department": "Виртуальный класс",
           "type": "shield"
@@ -2716,7 +2716,7 @@
             "losses": 9,
             "totalMatches": 15,
             "winRate": 40,
-            "tokensSpent": 53
+            "tokensSpent": 58
           },
           "department": "Виртуальный класс",
           "type": "radar"
@@ -2747,7 +2747,7 @@
           "wins": 11,
           "losses": 1,
           "winRate": 92,
-          "tokensSpent": 55
+          "tokensSpent": 60
         },
         {
           "rank": 2,
@@ -2757,7 +2757,7 @@
           "wins": 6,
           "losses": 9,
           "winRate": 40,
-          "tokensSpent": 53
+          "tokensSpent": 58
         },
         {
           "rank": 3,
@@ -2778,7 +2778,7 @@
           "rating": 1114,
           "wins": 11,
           "losses": 1,
-          "tokensSpent": 55,
+          "tokensSpent": 60,
           "department": "Виртуальный класс",
           "type": "shield"
         },
@@ -2789,7 +2789,7 @@
           "rating": 959,
           "wins": 6,
           "losses": 9,
-          "tokensSpent": 53,
+          "tokensSpent": 58,
           "department": "Виртуальный класс",
           "type": "radar"
         },
@@ -2824,7 +2824,7 @@
       "id": 8,
       "name": "1 смена PineTech Seniors",
       "totalTeams": 42,
-      "generatedAt": "2026-06-09T12:54:15.891733",
+      "generatedAt": "2026-06-09T15:29:41.675713",
       "seasonUrl": "https://branchcontest.ru/pinetech_ai_arena/api/public.php?action=leaderboard&season=8"
     },
     "standings": {
@@ -2947,7 +2947,7 @@
           "wins": 7,
           "losses": 5,
           "winRate": 58,
-          "tokensSpent": 54
+          "tokensSpent": 64
         },
         {
           "rank": 8,
@@ -3054,7 +3054,7 @@
           "rating": 1044,
           "wins": 7,
           "losses": 5,
-          "tokensSpent": 54,
+          "tokensSpent": 64,
           "department": "Виртуальный класс",
           "type": "trap"
         },
@@ -3164,7 +3164,7 @@
           "rating": 995,
           "wins": 5,
           "losses": 6,
-          "tokensSpent": 58,
+          "tokensSpent": 73,
           "department": "Мытищи",
           "type": "shield"
         },
